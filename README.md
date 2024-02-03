@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### Sobre mi:
 
 🙋‍♂️ Soy Miguel:
 
@@ -15,10 +15,10 @@ Siempre estoy aprendiendo para liderar en las últimas tecnologías. He trabajad
 Me encanta la colaboración y creo en el poder de trabajar juntos para lograr resultados sorprendentes. Busco desafíos emocionantes para seguir creciendo como desarrollador full stack.
 
 📣 ¡Conéctate conmigo si estás interesado en discutir proyectos inspiradores, oportunidades de cooperación o simplemente para hablar sobre las últimas tendencias en desarrollo web!
-#### [¡Mi curriculum está aquí!](https://github.com/katiaku/katiaku/blob/main/Ekaterina_Kushnir_CV_ES.pdf)
+#### [¡Echale un vistazo a mi curriculum!](https://github.com/katiaku/katiaku/blob/main/Curriculum.pdf)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tecnologias con las que trabajo:
 
 <div>
   <div>
@@ -46,7 +46,7 @@ Me encanta la colaboración y creo en el poder de trabajar juntos para lograr re
   </div>
 
   <div>
-    <h4>Other Tools</h4>
+    <h4>Otras herramientas</h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   </div>
