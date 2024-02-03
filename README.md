@@ -15,7 +15,7 @@ Siempre estoy aprendiendo para liderar en las últimas tecnologías. He trabajad
 Me encanta la colaboración y creo en el poder de trabajar juntos para lograr resultados sorprendentes. Busco desafíos emocionantes para seguir creciendo como desarrollador full stack.
 
 📣 ¡Conéctate conmigo si estás interesado en discutir proyectos inspiradores, oportunidades de cooperación o simplemente para hablar sobre las últimas tendencias en desarrollo web!
-#### [¡Echale un vistazo a mi curriculum!](https://github.com/katiaku/katiaku/blob/main/Curriculum.pdf)
+#### [¡Echale un vistazo a mi curriculum!](https://github.com/Mifraped/Mifraped/blob/main/Curriculum.pdf)
 ---
 
 ### :hammer_and_wrench: Tecnologias con las que trabajo:
